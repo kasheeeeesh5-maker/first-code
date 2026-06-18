@@ -2,3 +2,4 @@
 This is my first repo on github !
 <br>
 author-kashish
+![Git](https://img.shields.io/badge/Git-Master-F05032?style=for-the-badge&logo=git&logoColor=white)
